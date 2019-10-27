@@ -111,7 +111,7 @@ $allowedAddresses = array(
     '127.0.0.1',
     'localhost',
     '::1',
-    '59.100.22.44',
+    '59.100.18.21',
 );
 
 if (!in_array($_SERVER['REMOTE_ADDR'], $allowedAddresses, true)) {
